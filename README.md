@@ -2,7 +2,7 @@
 
 QuickPerms is a module which allows users to quickly write requirements to be granted permissions, this module is designed to be used for open source models like GUI kits so that your users can customize their permissions.
 
-**DevForum Page**
+[**DevForum Page**](https://devforum.roblox.com/t/quickperms-a-small-module-for-naming-and-checking-requirements-against-players-for-your-open-source-models/1903523)
 
 [**Model Link**](https://www.roblox.com/library/10452609332/QuickPerms)
 
